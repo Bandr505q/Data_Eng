@@ -30,7 +30,6 @@ Exercises related to Python Data Structures including:
 - 📦 Tuple operations
 - 📚 Dictionary operations
 
----
 
 The notebook contains solutions to exercises from the following topics:
 - 🔄 Python loops (`for`, `while`, `range`)
